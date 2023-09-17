@@ -9,5 +9,6 @@ public class ResultadoEscolar {
         } else {
             System.out.println("Em recuperacao");
         }
+
     }
 }
